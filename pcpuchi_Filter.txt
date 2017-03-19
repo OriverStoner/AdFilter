@@ -1,0 +1,25 @@
+(Adblock Plus 0.7 or higher required) [Adblock]
+*infoseek.co.jp/bin*
+*xrea.com*
+*google-analytics*
+|http://www.google-analytics.com/*
+*com/ufo*
+*fc2.com/ana*
+*analyzer*
+*e-kaiseki*
+*3939*
+*webdeki-analyze*
+*ezworks*
+*fpop*
+*nakanohito*
+*webdeki-analyze*
+*ziyu.net*
+*itgear.jp*
+*i2i*
+*tatsumi-sys.jp*
+*/analyze*
+*afv.jp*
+*monkeybanana*
+*hitgraph.jp*
+*petitcounter*
+*woopra.com*
